@@ -96,7 +96,6 @@ public class TopLevelBatteryPreferenceController extends BasePreferenceControlle
      */
     @Override
     public void updateBatteryStatus(String label, BatteryInfo info) {
-        /* Gaming ROM fr */
     }
 
     @VisibleForTesting
